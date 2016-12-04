@@ -10,16 +10,19 @@ This documentation is not comprehensive but should shed some light on what is in
 ## Subfolder Conventions
 
 - Each copy of the database needs the following folders:
-  - x
-  - x
-  - x  
+  - /data
+  - /excel_macros
+  - /Reporting  
 
 - Thes folders are customized for each DB as follows
-  - for a Toastmasters (TM) club, append a short abbreviation or club number at end of each folders
+  - for a Toastmasters (TM) club, append a short abbreviation or club number at end of the data folder
   - Examples:
-    - x
-	- x
-	- x  
+    - data_myClub
+    - excel_macros
+    - Reporting  
+
+Note:  The Above structure allows keeping of all working folders in one tree.  Each club has its own Data but they will
+share the same macro code folder and Reporting output folders.
 
 ## Actual Subfolders in this project 
 
