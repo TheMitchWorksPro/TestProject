@@ -1,4 +1,5 @@
 # hidden files (not needed in online project)
 html_mitch_logo/Thumbs.db
+.DS_Store
 # bash scripts used to process project
 *.sh
